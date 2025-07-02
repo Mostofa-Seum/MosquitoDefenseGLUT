@@ -49,7 +49,10 @@ This project combines **interactive graphics**, **environmental awareness**, and
 
 ## 📸 Screenshots
 
-> *(Add screenshots here if you have them — showing mosquito, tub, aerator, and environment)*
+>![{B80F1199-E17D-4F87-B893-B410DCF6349A}](https://github.com/user-attachments/assets/19e3a87c-5560-4157-bea5-b7643392119e)
+
+> ![{38F47EB8-E154-4F62-81C9-194308C48564}](https://github.com/user-attachments/assets/515910cd-2f9f-4de5-8a15-7d2a30a1b3ae)
+
 
 ---
 
